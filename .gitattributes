@@ -2,3 +2,4 @@
 20_2.95 filter=lfs diff=lfs merge=lfs -text
 embedding.pkl filter=lfs diff=lfs merge=lfs -text
 embedding_nqg.pkl filter=lfs diff=lfs merge=lfs -text
+squad filter=lfs diff=lfs merge=lfs -text
