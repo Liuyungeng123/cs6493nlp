@@ -1,0 +1,4 @@
+word2idx.pkl filter=lfs diff=lfs merge=lfs -text
+word2idx_nqg.pkl filter=lfs diff=lfs merge=lfs -text
+embedding.pkl filter=lfs diff=lfs merge=lfs -text
+embedding_nqg.pkl filter=lfs diff=lfs merge=lfs -text
